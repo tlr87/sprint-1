@@ -11,4 +11,4 @@ Some commands that you could use in command line are
 7. rename = renames the file or folder.
 8. chmod = changes the characteristics of the file
 9. pwd = Shows the full path of the location of where you are.
-10. cp Copy the flile or folder to another location. 
+10. cp = Copy the flile or folder to another location. 
